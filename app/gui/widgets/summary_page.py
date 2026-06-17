@@ -91,7 +91,7 @@ class SummaryPage(QWidget):
         if severity:
             ok = QPushButton("Ок")
             ok.setObjectName("SecondaryButton")
-            ok.clicked.connect(lambda: self._ack(camera_name))
+            ok.clicked.connect(lambda _, c=camera_name, m=module: self._ack(c, m))
             layout.addWidget(ok)
         return box
 
@@ -109,6 +109,6 @@ class SummaryPage(QWidget):
     def _format_event(self, e):
         return f"• {e.get('event_type','UNKNOWN')}; время: {e.get('timestamp_sec', e.get('time_sec','?'))} сек.; кадр: {e.get('frame','?')}; объект: {e.get('object_id','?')}; класс: {e.get('class_name', e.get('class','?'))}; уверенность: {e.get('confidence_score','?')}"
 
-    def _ack(self, camera_name):
+    def _ack(self, camera_name, module):
         acknowledge_summary_camera(camera_name, module)
         self.refresh()

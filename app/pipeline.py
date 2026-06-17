@@ -44,7 +44,7 @@ class PerimeterPipeline:
         frame_idx = 0
         last_event_severity_for_preview = None
 
-        with tqdm(total=total if total > 0 else None, desc=f"Processing {video_path.name}", disable=True) as pbar:
+        with tqdm(total=total if total > 0 else None, desc=f"Processing {video_path.name}", disable=False) as pbar:
             while True:
                 ok, frame = cap.read()
                 if not ok:

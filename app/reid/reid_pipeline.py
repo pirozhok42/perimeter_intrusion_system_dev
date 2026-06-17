@@ -70,7 +70,7 @@ class ReIdPipeline:
         frame_idx = 0
         saved_reid_event_preview = False
 
-        with tqdm(total=total_frames if total_frames > 0 else None, desc=f"ReID {video_path.name}", disable=True) as pbar:
+        with tqdm(total=total_frames if total_frames > 0 else None, desc=f"ReID {video_path.name}", disable=False) as pbar:
             while True:
                 ok, frame = cap.read()
                 if not ok:

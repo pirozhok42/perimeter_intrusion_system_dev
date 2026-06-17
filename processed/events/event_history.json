@@ -78,5 +78,315 @@
     "log_path": "processed\\logs\\1_darkened mirrored_events.json",
     "video_path": "input_stream\\live\\per_cam_2\\1_darkened mirrored.mp4",
     "created_at": "2026-06-12 16:19:35"
+  },
+  {
+    "camera_name": "per_cam_2",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_2_event.jpg",
+    "log_path": "processed\\logs\\1_darkened mirrored_events.json",
+    "video_path": "input_stream\\live\\per_cam_2\\1_darkened mirrored.mp4",
+    "created_at": "2026-06-14 20:32:45"
+  },
+  {
+    "camera_name": "per_cam_2",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_2_event.jpg",
+    "log_path": "processed\\logs\\1_darkened mirrored_events.json",
+    "video_path": "input_stream\\live\\per_cam_2\\1_darkened mirrored.mp4",
+    "created_at": "2026-06-14 20:46:28"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1.avi",
+    "created_at": "2026-06-14 20:47:27"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_darkened mirrored_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1_darkened mirrored.mp4",
+    "created_at": "2026-06-14 20:48:42"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_darkened_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1_darkened.mp4",
+    "created_at": "2026-06-14 20:50:49"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_fog_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1_fog.mp4",
+    "created_at": "2026-06-14 20:52:49"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1_lens_crack.mp4",
+    "created_at": "2026-06-14 20:55:05"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\1_rain_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\1_rain.mp4",
+    "created_at": "2026-06-14 20:57:17"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\2_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\2.avi",
+    "created_at": "2026-06-14 20:58:42"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\2_darkened_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\2_darkened.mp4",
+    "created_at": "2026-06-14 21:00:05"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\2_fog_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\2_fog.mp4",
+    "created_at": "2026-06-14 21:01:23"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\2_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\2_lens_crack.mp4",
+    "created_at": "2026-06-14 21:02:49"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\2_rain_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\2_rain.mp4",
+    "created_at": "2026-06-14 21:04:16"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\3_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\3.avi",
+    "created_at": "2026-06-14 21:05:19"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\3_darkened_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\3_darkened.mp4",
+    "created_at": "2026-06-14 21:06:18"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\3_fog_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\3_fog.mp4",
+    "created_at": "2026-06-14 21:07:16"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\3_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\3_lens_crack.mp4",
+    "created_at": "2026-06-14 21:08:16"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\3_rain_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\3_rain.mp4",
+    "created_at": "2026-06-14 21:09:20"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\4_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\4.avi",
+    "created_at": "2026-06-14 21:11:43"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\4_darkened_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\4_darkened.mp4",
+    "created_at": "2026-06-14 21:14:01"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\4_fog_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\4_fog.mp4",
+    "created_at": "2026-06-14 21:16:12"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\4_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\4_lens_crack.mp4",
+    "created_at": "2026-06-14 21:18:32"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "warning",
+    "event_type": "WARNING_STERILE_ZONE",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\4_rain_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\4_rain.mp4",
+    "created_at": "2026-06-14 21:20:56"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\5_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\5.avi",
+    "created_at": "2026-06-14 21:22:35"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\5_darkened_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\5_darkened.mp4",
+    "created_at": "2026-06-14 21:24:05"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\5_fog_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\5_fog.mp4",
+    "created_at": "2026-06-14 21:25:36"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\5_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\5_lens_crack.mp4",
+    "created_at": "2026-06-14 21:27:13"
+  },
+  {
+    "camera_name": "per_cam_1",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_1_event.jpg",
+    "log_path": "processed\\logs\\5_rain_events.json",
+    "video_path": "input_stream\\live\\per_cam_1\\5_rain.mp4",
+    "created_at": "2026-06-14 21:28:52"
+  },
+  {
+    "camera_name": "trk_cam_1",
+    "module": "tracking",
+    "severity": "alarm",
+    "event_type": "REID_PERSON_DETECTED",
+    "frame_path": "processed\\event_frames\\trk_cam_1_event.jpg",
+    "log_path": "processed\\logs\\cam1_trimmed_trimmed_reid_events.json",
+    "video_path": "input_stream\\live\\trk_cam_1\\cam1_trimmed_trimmed.mp4",
+    "created_at": "2026-06-15 14:56:38"
+  },
+  {
+    "camera_name": "per_cam_2",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_2_event.jpg",
+    "log_path": "processed\\logs\\1_darkened mirrored_events.json",
+    "video_path": "input_stream\\live\\per_cam_2\\1_darkened mirrored.mp4",
+    "created_at": "2026-06-15 14:57:36"
+  },
+  {
+    "camera_name": "per_cam_3",
+    "module": "detection",
+    "severity": "alarm",
+    "event_type": "ALARM_FENCE_CONTACT",
+    "frame_path": "processed\\event_frames\\per_cam_3_event.jpg",
+    "log_path": "processed\\logs\\5_lens_crack_events.json",
+    "video_path": "input_stream\\live\\per_cam_3\\5_lens_crack.mp4",
+    "created_at": "2026-06-15 14:57:54"
   }
 ]

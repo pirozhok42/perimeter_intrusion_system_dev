@@ -19,3 +19,7 @@ build/
 yolov8n.pt
 yolo11s.pt
 mobilenet_v3-large.pt
+mobilenet_v3_large.pth
+perimeter_intrusion_system.zip
+logs.zip
+logs2.zip

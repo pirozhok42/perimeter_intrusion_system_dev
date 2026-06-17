@@ -15,7 +15,7 @@
         "log_path": null,
         "video_path": null,
         "acknowledged": true,
-        "updated_at": "2026-06-12 16:19:27"
+        "updated_at": "2026-06-14 21:28:52"
       }
     },
     "per_cam_2": {
@@ -26,7 +26,7 @@
         "log_path": null,
         "video_path": null,
         "acknowledged": true,
-        "updated_at": "2026-06-12 16:19:35"
+        "updated_at": "2026-06-15 14:57:36"
       }
     },
     "trk_cam_2": {
@@ -48,7 +48,18 @@
         "log_path": null,
         "video_path": null,
         "acknowledged": true,
-        "updated_at": "2026-06-12 16:15:01"
+        "updated_at": "2026-06-15 14:56:38"
+      }
+    },
+    "per_cam_3": {
+      "detection": {
+        "severity": null,
+        "event_type": null,
+        "frame_path": null,
+        "log_path": null,
+        "video_path": null,
+        "acknowledged": true,
+        "updated_at": "2026-06-15 14:57:54"
       }
     }
   },
